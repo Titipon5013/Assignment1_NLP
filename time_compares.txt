@@ -2,6 +2,6 @@ Framework Performance Comparison (Average of 10 runs)
 =================================================
 
 Framework  Avg Time (s)  Sentences  Words
-     NLTK      0.061249       1614  26397
- TextBlob      0.085059       1614  26397
-    SpaCy      5.751722       1310  26869
+     NLTK      0.039430       1614  12633
+ TextBlob      0.035865       1614  12633
+    SpaCy      3.550474       1310  12633
